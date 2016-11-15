@@ -4,9 +4,9 @@
 
 List of random stuff
 
-- dogs
-- cats
-- ducks
+- BEARS
+- BEETS
+- BATTLESTAR GALACTICA
 - TACOS
 - BURRITOS
 - PIZZA
