@@ -4,9 +4,10 @@
 
 List of random stuff
 
-- BEARS
-- BEETS
-- BATTLESTAR GALACTICA
+
+- salad
+- sandwiches
+- turkey
 - TACOS
 - BURRITOS
 - PIZZA
